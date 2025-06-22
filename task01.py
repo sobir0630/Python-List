@@ -1,0 +1,1 @@
+meva = ["olma", "anor", "uzum"]
